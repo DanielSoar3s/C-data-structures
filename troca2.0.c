@@ -7,21 +7,10 @@ void troca(int x,int y) {
 	aux = x;
 	x = y;
 	y = aux;
-
 }
 
-
-
-
-
-
-
-
-
-
 main(){
-	
-	int x =5,y = 3;
-	troca(x,y);
-	printf("x = %d e y = %d",x,y);
+  	int x =5,y = 3;
+  	troca(x,y);
+ 	printf("x = %d e y = %d",x,y);
 }
