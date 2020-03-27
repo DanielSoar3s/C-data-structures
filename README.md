@@ -1,2 +1,4 @@
 # C-data-structures
-Here are some learning of the data structures, and I continue learning in college.
+
+## <i>Here are some learnings of Data Structures with implementation in C.<i>
+
